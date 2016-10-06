@@ -23,6 +23,8 @@ public class Fozandoengit {
         base = Float.parseFloat(JOptionPane.showInputDialog("Introduce la base del triangulo:"));
         altura = Float.parseFloat(JOptionPane.showInputDialog("Introduce la altura del triangulo:"));
         JOptionPane.showMessageDialog(null, "El area del triangulo es: "+(base*altura)/2);
+        
+        //Comentario random sobre el programa. modificacion 1
     }
     
 }
