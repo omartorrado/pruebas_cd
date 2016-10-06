@@ -20,9 +20,9 @@ public class Fozandoengit {
         // TODO code application logic here
         float base;
         float altura;
-        base = Float.parseFloat(JOptionPane.showInputDialog("Introduce la base:"));
-        altura = Float.parseFloat(JOptionPane.showInputDialog("Introduce la altura"));
-        JOptionPane.showMessageDialog(null, "El area es: "+(base*altura)/2);
+        base = Float.parseFloat(JOptionPane.showInputDialog("Introduce la base del triangulo:"));
+        altura = Float.parseFloat(JOptionPane.showInputDialog("Introduce la altura del triangulo:"));
+        JOptionPane.showMessageDialog(null, "El area del triangulo es: "+(base*altura)/2);
     }
     
 }
