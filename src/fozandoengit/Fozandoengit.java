@@ -25,6 +25,7 @@ public class Fozandoengit {
         JOptionPane.showMessageDialog(null, "El area del triangulo es: "+(base*altura)/2);
         
         //Comentario random sobre el programa. modificacion 1
+        //necesidades basicas incompletas. rendimiento 20%
     }
     
 }
